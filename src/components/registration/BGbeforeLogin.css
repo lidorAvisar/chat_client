@@ -1,0 +1,11 @@
+.bgImg{
+    background-image: url("https://images.unsplash.com/photo-1684369175809-f9642140a1bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2142&q=80");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    background-blend-mode: multiply;
+    height: 100vh;
+    padding-top: 85px;
+}
